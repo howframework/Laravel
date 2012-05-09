@@ -32,9 +32,17 @@
 |
 */
 
+
 Route::get('/', function()
 {
 	return View::make('home.index');
+});
+
+
+Route::any('(login|register|logout)', function ($action)
+{
+	// Add login, logout and register route to use Credential Controller
+	return Controller::call("credential@{$action}");
 });
 
 /*
