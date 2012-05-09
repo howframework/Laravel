@@ -11,4 +11,4 @@ A simple Blog application for [How Framework](http://github.com/howframework).
 
 ## Installation
 
-To be added. 
+1. `storage` folder need to have writable permission. `$ chmod -Rf 777 storage/`
