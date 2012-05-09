@@ -63,14 +63,14 @@ return array(
 
 		'sqlite' => array(
 			'driver'   => 'sqlite',
-			'database' => 'application',
+			'database' => 'howframework_laravel',
 			'prefix'   => '',
 		),
 
 		'mysql' => array(
 			'driver'   => 'mysql',
 			'host'     => 'localhost',
-			'database' => 'database',
+			'database' => 'howframework_laravel',
 			'username' => 'root',
 			'password' => '',
 			'charset'  => 'utf8',
@@ -80,7 +80,7 @@ return array(
 		'pgsql' => array(
 			'driver'   => 'pgsql',
 			'host'     => 'localhost',
-			'database' => 'database',
+			'database' => 'howframework_laravel',
 			'username' => 'root',
 			'password' => '',
 			'charset'  => 'utf8',
@@ -90,7 +90,7 @@ return array(
 		'sqlsrv' => array(
 			'driver'   => 'sqlsrv',
 			'host'     => 'localhost',
-			'database' => 'database',
+			'database' => 'howframework_laravel',
 			'username' => 'root',
 			'password' => '',
 			'prefix'   => '',
