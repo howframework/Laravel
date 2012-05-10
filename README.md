@@ -3,6 +3,9 @@ Laravel
 
 A simple Blog application for [How Framework](http://github.com/howframework).
 
+* [Demo](http://hfw-laravel.phpfogapp.com/)
+* [Laravel](http://laravel.com)
+
 ## Requirement
 
 * Apache Web Server
