@@ -28,3 +28,11 @@ A simple Blog application for [How Framework](http://github.com/howframework).
 		),
 6. Run `php artisan migrate:install` to run migration table installation.
 7. Run `php artisan migrate` to update you're database to latest migration. 
+
+## Running the Application
+
+You can access the application from http://localhost/laravel/public/, change `localhost/laravel` to whatever you set in your environment.
+
+## Documentation
+
+* [Phase I - Authentication](https://github.com/howframework/Laravel/wiki/Phase-I:-Authentication)
